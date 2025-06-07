@@ -14,7 +14,7 @@
 - **Games:** Minecraft, Gta V , Inside the Backrooms, Escape the Backrooms, WatchDogs 2, MudRunner, Valheim, Forza Horizon 5, Raft, Subnautica 2!
 
 ### 📫 Connect with Me  
-- 💬 Discord: `@.dxts.`
+- 💬 Discord: `d3xts`
 
 ### ❤ My Loves
 - [@Raffymimii](https://github.com/Raffymimii), [@burlone0](https://github.com/burlone0)
