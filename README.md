@@ -1,5 +1,7 @@
 ## 👋 Hi i'm D3xts
 
+[![My Skills](https://skillicons.dev/icons?i=github,js,discord,discordjs,java)](https://skillicons.dev)
+
 ### 💻 [My Portfolio](https://callmederyu.vercel.app/)
 
 ### 👀 What do I like to develop most?  
