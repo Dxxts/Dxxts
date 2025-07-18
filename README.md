@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github,js,discord,discordjs,java)](https://skillicons.dev)
 
-### 💻 [My Portfolio](https://callmederyu.vercel.app/)
+### 💻 [My Portfolio](https://d3xts.vercel.app/)
 
 ### 👀 What do I like to develop most?  
 - 🕹️ **Discord Bots**  
