@@ -1,22 +1,12 @@
-## 👋 Hi i'm D3xts
+# Hello.
+**I'm Deryu** - I'm a minecraft Developer, Builder and Website tool maker. I work on lots of random projects in my free time.
 
-[![My Skills](https://skillicons.dev/icons?i=github,js,discord,discordjs,java)](https://skillicons.dev)
+Check out my [Newest Project!](https://mcutils.net/).
 
-### 💻 [My Portfolio](https://d3xts.vercel.app/)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,pyvue)](https://skillicons.dev)<br/>
 
-### 👀 What do I like to develop most?  
-- 🕹️ **Discord Bots**  
-- 🧨 **Minecraft Builds**
-- ✨ **Websites**
-- 🐊 **Plugins**
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
-### 🧐 About Me
-- **Languages:** JavaScript, HTML, CSS, Python, LUA, Java (Still Learning)
-- **Projects:** [ValhMC](https://discord.valhmc.it)
-- **Games:** Minecraft, Gta V , Inside the Backrooms, Escape the Backrooms, WatchDogs 2, MudRunner, Valheim, Forza Horizon 5, Raft, Subnautica 2!
-
-### 📫 Connect with Me  
-- 💬 Discord: `d3xts`
-
-### ❤ My Loves
-- [@Raffymimii](https://github.com/Raffymimii), [@burlone0](https://github.com/burlone0)
