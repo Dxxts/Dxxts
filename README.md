@@ -12,8 +12,8 @@ Check out my [Newest Project!](https://mcutils.net/).
 [![Discord Presence](https://lanyard.cnrad.dev/api/1188814922109419633?theme=dark&bg=1c1c1c&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Offline)](https://discord.com/users/1188814922109419633)
 
 ### 🤝 Collaborators
-[![Raffymimi](https://img.shields.io/badge/Raffymimi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raffymimi)
-[![Burlone413](https://img.shields.io/badge/Burlone413-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Burlone413)
+[![Raffymimi](https://img.shields.io/badge/Raffymimi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raffymimii)
+[![Burlone413](https://img.shields.io/badge/Burlone413-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Burlone0)
 
 ### 🎮 Favorite Games
 **Minecraft** • **GTA V** • **Raft** • **Valheim**
