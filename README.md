@@ -11,5 +11,13 @@ Check out my [Newest Project!](https://mcutils.net/).
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1188814922109419633?theme=dark&bg=1c1c1c&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Offline)](https://discord.com/users/1188814922109419633)
 
+# About me
+
+## My Colleagues:
+
+[![Raffymimi](https://img.shields.io/badge/GitHub-Raffymimi-181717?style=flat&logo=github&logoColor=white)](https://github.com/Raffymimi)
+[![Burlone413](https://img.shields.io/badge/GitHub-Burlone413-181717?style=flat&logo=github&logoColor=white)](https://github.com/Burlone413)
+
+
 
 
