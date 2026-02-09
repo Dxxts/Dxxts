@@ -13,10 +13,8 @@ Check out my [Newest Project!](https://mcutils.net/).
 
 # About me
 
-## My Colleagues:
+## My Colleagues:** [![Raffymimi](https://img.shields.io/badge/GitHub-Raffymimi-181717?style=flat&logo=github&logoColor=white)](https://github.com/Raffymimi) [![Burlone413](https://img.shields.io/badge/GitHub-Burlone413-181717?style=flat&logo=github&logoColor=white)](https://github.com/Burlone413)
 
-[![Raffymimi](https://img.shields.io/badge/GitHub-Raffymimi-181717?style=flat&logo=github&logoColor=white)](https://github.com/Raffymimi)
-[![Burlone413](https://img.shields.io/badge/GitHub-Burlone413-181717?style=flat&logo=github&logoColor=white)](https://github.com/Burlone413)
 
 
 
