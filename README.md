@@ -19,9 +19,12 @@ Check out my [Newest Project!](https://mcutils.net/).
 **Minecraft** • **GTA V** • **Raft** • **Valheim**
 
 ### 🚀 Currently Working On
-- **MCUtils** - Minecraft utilities project
+- **Codexe** - Minecraft utilities project
 - **PenguinStudios** - Collaborative development
-- **New Minecraft Project** - In development
+- **ArxLand** - In development
+
+### 💖 Best project (for now)
+- **PenguinFishingSystem** - https://builtbybit.com/resources/penguinfishingsystem.96620/
 
 
 
