@@ -23,7 +23,7 @@ Check out my [Newest Project!](https://mcutils.net/).
 - **PenguinStudios** - Collaborative development
 - **ArxLand** - In development
 
-### 💖 Best project (for now)
+### 💖 Personal Best project (for now)
 - **PenguinFishingSystem** - https://builtbybit.com/resources/penguinfishingsystem.96620/
 
 
