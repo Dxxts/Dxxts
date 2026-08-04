@@ -1,7 +1,7 @@
 # Hello.
 **I'm Deryu** - I'm a minecraft Developer, Builder and Website tool maker. I work on lots of random projects in my free time.
 
-Check out my [Newest Project!]([https://mcutils.net/](https://builtbybit.com/resources/penguincrops.116921/)).
+Check out my [Newest Project](https://builtbybit.com/resources/penguincrops.116921/).
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,vue,java)](https://skillicons.dev)<br/>
 
