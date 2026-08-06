@@ -6,15 +6,11 @@ I work on lots of random projects in my free time.
 Check out my [Newest Project](https://builtbybit.com/resources/penguincrops.116921/).
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,maven,gradle,kotlin,js,ts,html,css,nodejs,python,cpp,lua,go" />
+  <img src="https://skillicons.dev/icons?i=java,maven,gradle,js,ts,html,css,nodejs,python,lua" />
   <br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,express,graphql,threejs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,express,vercel" />
   <br />
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,powershell,nginx,vercel" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=idea,vscode,discord,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=robloxstudio,git,github,idea,vscode,discord,figma,blender" />
 </p>
 
 <p align="center">
