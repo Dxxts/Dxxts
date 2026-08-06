@@ -53,23 +53,16 @@ Check out my [Newest Project](https://builtbybit.com/resources/penguincrops.1169
 - **PenguinFishingSystem** — [BuiltByBit](https://builtbybit.com/resources/penguinfishingsystem.96620/)
 - **PenguinCrops** — [BuiltByBit](https://builtbybit.com/resources/penguincrops.116921/)
 
-## Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/Dxxts/Wardly">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dxxts&repo=Wardly&show_owner=true&hide_border=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Dxxts/Chromascii">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dxxts&repo=Chromascii&show_owner=true&hide_border=true&theme=tokyonight" />
-  </a>
-</p>
-
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dxxts&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dxxts&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+  <a href="https://github.com/Dxxts">
+    <img src="https://img.shields.io/github/followers/Dxxts?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+  <a href="https://github.com/Dxxts?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-7-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Dxxts">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
