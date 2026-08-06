@@ -42,25 +42,11 @@ Check out my [Newest Project](https://builtbybit.com/resources/penguincrops.1169
 [![Raffymimi](https://img.shields.io/badge/Raffymimi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raffymimii)
 [![Burlone413](https://img.shields.io/badge/Burlone413-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Burlone0)
 
-## Currently Working On
+### My Projects
 
-- **Codexe** — Minecraft utilities project
-- **PenguinStudios** — Collaborative development
-- **ArxLand** — In development
-
-## Technical Interests
-
-- Advanced Minecraft plugin architecture
-- Paper, Spigot, Folia and Velocity development
-- NMS and packet manipulation
-- WorldEdit and FastAsyncWorldEdit
-- Shape generation, brushes and terrain tools
-- Custom GUIs, scoreboards and inventory systems
-- AI-assisted code generation and developer tooling
-- Discord bots with custom interfaces
-- Minecraft launcher development
-- Server administration and networking
-- Web applications, APIs and deployment systems
+- **[Codexe](https://codexe.eu/)** - AI-powered generator for Minecraft plugins, mods, Discord bots and websites
+- **[PenguinStudios](https://penguinstudios.eu/)** - Custom plugins, bots, websites and development services
+- **[ArxLand](https://www.arxland.net/)** - Custom Minecraft community network
 
 ## Personal Best Projects
 
