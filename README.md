@@ -67,6 +67,9 @@ Check out my [Newest Project](https://builtbybit.com/resources/penguincrops.1169
 ## GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dxxts&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dxxts&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dxxts&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dxxts&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 </p>
