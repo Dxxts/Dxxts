@@ -52,6 +52,3 @@ Check out my [Newest Project](https://builtbybit.com/resources/penguincrops.1169
 
 - **PenguinFishingSystem** — [BuiltByBit](https://builtbybit.com/resources/penguinfishingsystem.96620/)
 - **PenguinCrops** — [BuiltByBit](https://builtbybit.com/resources/penguincrops.116921/)
-- **MCUtils** — Minecraft utilities and terrain-generation toolkit
-- **ReplayInspector** — Minecraft replay and analysis tooling
-- **mcutils.net** — Developer tools and web utilities
