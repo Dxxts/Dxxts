@@ -53,8 +53,6 @@ Check out my [Newest Project](https://builtbybit.com/resources/penguincrops.1169
 - **PenguinFishingSystem** — [BuiltByBit](https://builtbybit.com/resources/penguinfishingsystem.96620/)
 - **PenguinCrops** — [BuiltByBit](https://builtbybit.com/resources/penguincrops.116921/)
 
-## GitHub Statistics
-
 <p align="center">
   <a href="https://github.com/Dxxts">
     <img src="https://img.shields.io/github/followers/Dxxts?style=for-the-badge&logo=github&label=Followers" />
